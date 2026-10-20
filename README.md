@@ -1,6 +1,8 @@
 # zerotrunc
 Zero-Truncated Count Data Regression Use zerotrunc (countreg) With (In) R Software
 
+https://www.youtube.com/watch?v=WacfJVlZoPc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
